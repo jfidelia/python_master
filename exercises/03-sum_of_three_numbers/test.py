@@ -1,7 +1,5 @@
 import pytest, io, sys, json
 
-
-
 @pytest.mark.it('Sum all three input numbers and print on the console the result')
 def test_add_variables(mocker, stdin):
 

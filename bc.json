@@ -1,3 +1,121 @@
 {
-    "compiler": "python3"
+    "port": 3000,
+    "address": "localhost",
+    "editor": "gitpod",
+    "outputPath": "./.breathecode/dist",
+    "publicPath": "/preview",
+    "grading": "isolated",
+    "ignoreRegex": null,
+    "webpack_template": null,
+    "disable_grading": false,
+    "language": "python3",
+    "compiler": "python3",
+    "tester": "pytest",
+    "actions": [
+        "run",
+        "test"
+    ],
+    "exercisesPath": "./exercises",
+    "exercises": [
+        {
+            "slug": "01-welcome",
+            "title": "01-welcome",
+            "path": "exercises/01-welcome"
+        },
+        {
+            "slug": "02-hello-world",
+            "title": "02-hello-world",
+            "path": "exercises/02-hello-world"
+        },
+        {
+            "slug": "03-sum_of_three_numbers",
+            "title": "03-sum_of_three_numbers",
+            "path": "exercises/03-sum_of_three_numbers"
+        },
+        {
+            "slug": "04-area_of_right_triangle",
+            "title": "04-area_of_right_triangle",
+            "path": "exercises/04-area_of_right_triangle"
+        },
+        {
+            "slug": "05-hello_harry",
+            "title": "05-hello_harry",
+            "path": "exercises/05-hello_harry"
+        },
+        {
+            "slug": "06-previous_and_next",
+            "title": "06-previous_and_next",
+            "path": "exercises/06-previous_and_next"
+        },
+        {
+            "slug": "07-Apple_sharing",
+            "title": "07-Apple_sharing",
+            "path": "exercises/07-Apple_sharing"
+        },
+        {
+            "slug": "08-hours_and_minutes",
+            "title": "08-hours_and_minutes",
+            "path": "exercises/08-hours_and_minutes"
+        },
+        {
+            "slug": "09-Two_timestamps",
+            "title": "09-Two_timestamps",
+            "path": "exercises/09-Two_timestamps"
+        },
+        {
+            "slug": "10-Two_digits",
+            "title": "10-Two_digits",
+            "path": "exercises/10-Two_digits"
+        },
+        {
+            "slug": "11-Swap_digits",
+            "title": "11-Swap_digits",
+            "path": "exercises/11-Swap_digits"
+        },
+        {
+            "slug": "12-Last_two_digits",
+            "title": "12-Last_two_digits",
+            "path": "exercises/12-Last_two_digits"
+        },
+        {
+            "slug": "13-Tens_digit",
+            "title": "13-Tens_digit",
+            "path": "exercises/13-Tens_digit"
+        },
+        {
+            "slug": "14-sum_of_digits",
+            "title": "14-sum_of_digits",
+            "path": "exercises/14-sum_of_digits"
+        },
+        {
+            "slug": "15-Digit_after_decimal_point",
+            "title": "15-Digit_after_decimal_point",
+            "path": "exercises/15-Digit_after_decimal_point"
+        },
+        {
+            "slug": "16-Car_route",
+            "title": "16-Car_route",
+            "path": "exercises/16-Car_route"
+        },
+        {
+            "slug": "17-Century",
+            "title": "17-Century",
+            "path": "exercises/17-Century"
+        },
+        {
+            "slug": "18-Total_cost",
+            "title": "18-Total_cost",
+            "path": "exercises/18-Total_cost"
+        },
+        {
+            "slug": "19-Day_of_week",
+            "title": "19-Day_of_week",
+            "path": "exercises/19-Day_of_week"
+        },
+        {
+            "slug": "20-Digital_clock",
+            "title": "20-Digital_clock",
+            "path": "exercises/20-Digital_clock"
+        }
+    ]
 }
