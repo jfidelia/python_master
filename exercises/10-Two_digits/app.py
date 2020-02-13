@@ -7,4 +7,4 @@ def two_digits(digit):
 
 
 #Invoke the function with any interger as its argument.
-two_digits(79)
+two_digits(99)
