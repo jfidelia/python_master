@@ -10,4 +10,4 @@ def total_cost(d,c,n):
 
 
 #Invoke the function with three intergers: cost(dollars and cents) & number of cupcakes.
-
+total_cost(10,15,2)
